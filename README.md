@@ -171,6 +171,6 @@ plt.suptitle("Who Are Boston's Most Loyal Fans?\nAttendance Statistics 1960-2016
 plt.tight_layout()
 
 ```
-    
+![Boston Fan Loyalty Chart]https://aaguilargonzalez.github.io/Who-Are-Bostons-Most-Loyal-Fans/Boston_Fan_Loyalty_Chart.png    
 
 
